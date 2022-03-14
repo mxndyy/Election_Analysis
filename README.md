@@ -11,7 +11,7 @@ The data we need to retrieve includes:
   5. The winner of the election based on popular vote
 
 ## Resources
-- Data source: election_results.csv
+- Data source: Resources/election_results.csv
 - Software: Python 3.7.6, VS Code 1.65
 
 ## Summary
