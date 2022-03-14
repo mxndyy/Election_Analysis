@@ -41,6 +41,9 @@ In addition to the information above The election commission requested additiona
     - Denver: 82.8% (306,055)
     - Arapahoe: 6.7% (24,801)
 - Denver had the largest number of votes
+
+
+
 ![Resources/Results](/Resources/Results.png)
 
 ## Election-Audit Summary
