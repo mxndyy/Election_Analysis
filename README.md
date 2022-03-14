@@ -1,7 +1,7 @@
 # Election_Analysis
 
 ## Project Overview
-A Colorado Board of Elections employee has given you the following tasks to complete the election audit of a recent local congressional election
+A Colorado Board of Elections employee has given the following tasks to complete the election audit of a recent local congressional election
 
 The data we need to retrieve includes:
   1. The total number of votes cast
@@ -12,7 +12,7 @@ The data we need to retrieve includes:
 
 ## Resources
 - Data source: election_results.csv
-- Software: Python 3.6.1, VS Code 1.65
+- Software: Python 3.7.6, VS Code 1.65
 
 ## Summary
 The analysis of the election show that:
@@ -29,5 +29,17 @@ The analysis of the election show that:
   - Diana DeGette who received 73.8% of the vote and 272,892 number of votes
 
 ## Challenge Overview
+In addition to the information above The election commission requested additional data to complete the audit which includes:
+  - The voter turnout for each county
+  - The percentage of votes from each county out of the total count
+  - The county with the highest turnout
+ 
+## Challenge Results
+- Breakdown of the number of votes and the percentage of total votes for each county in the precinct.
+  County Votes:
+    - Jefferson: 10.5% (38,855)
+    - Denver: 82.8% (306,055)
+    - Arapahoe: 6.7% (24,801)
+- Denver had the largest number of votes
 
-## Challenge Summary
+## Election-Audit Summary
