@@ -43,3 +43,4 @@ In addition to the information above The election commission requested additiona
 - Denver had the largest number of votes
 
 ## Election-Audit Summary
+The script provided for this election audit can be altered to fit any other type of election. For example, in this election we were looking at the results by county, however we could look at results by state or city on a bigger scale of elections such as presidential elections. We would just need to ensure that the data is available in a .csv file or other compatible file. We would also be able to add more information such as voter political parties and voter ages. 
